@@ -1,0 +1,2 @@
+4
+Variable SUM not found!
